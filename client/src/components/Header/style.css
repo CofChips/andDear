@@ -1,0 +1,11 @@
+.border{
+    border-bottom: 1px solid #bdbdbd;
+}
+
+.header{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 75px;
+}
