@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
     <div>
-      {/* <Navbar /> */}
+      <Navbar />
       <Switch>
         <Route exact path="/" component={Contact} />
       </Switch>
